@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Sarath191181208/HeapViz/static/css/main.e4f2bf5e.css",
+    "main.js": "/Sarath191181208/HeapViz/static/js/main.989917f4.js",
+    "static/js/453.103c4bc6.chunk.js": "/Sarath191181208/HeapViz/static/js/453.103c4bc6.chunk.js",
+    "index.html": "/Sarath191181208/HeapViz/index.html",
+    "main.e4f2bf5e.css.map": "/Sarath191181208/HeapViz/static/css/main.e4f2bf5e.css.map",
+    "main.989917f4.js.map": "/Sarath191181208/HeapViz/static/js/main.989917f4.js.map",
+    "453.103c4bc6.chunk.js.map": "/Sarath191181208/HeapViz/static/js/453.103c4bc6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4f2bf5e.css",
+    "static/js/main.989917f4.js"
+  ]
+}
